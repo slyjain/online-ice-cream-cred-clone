@@ -29,10 +29,10 @@ Technologies Used
 
 Contributors
 
-Samyak Rote
-Dil Raj
-Ankit Kumar
-Ritesh Kuamr
+Samyak Rote,
+Dil Raj,
+Ankit Kumar,
+Ritesh Kuamr,
 Uday Bodana
 
 For any questions, issues, or suggestions, feel free to open an issue or contact us at your_email@example.com.
