@@ -35,7 +35,7 @@ Ankit Kumar,
 Ritesh Kuamr,
 Uday Bodana
 
-For any questions, issues, or suggestions, feel free to open an issue or contact us at your_email@example.com.
+For any questions, issues, or suggestions, feel free to open an issue or contact us at bt22cse__@iiitn.ac.in.
 
 We hope you enjoy using our Ice Cream Shop Website Template!
 
