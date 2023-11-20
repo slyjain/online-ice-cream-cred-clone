@@ -6,7 +6,7 @@ const section4Left3 = document.querySelector('.section-4-left-3')
 const section4Left4 = document.querySelector('.section-4-left-4')
 
 const section4RightImg = document.querySelector('.section-4-right-img')
-const section4RightImg1 = "https://www.judes.com/assets/images/resize/original/2608.jpg";
+
 const section4RightImg1 = "https://www.judes.com/assets/images/resize/original/2608.jpg";
 const section4RightImg2 = "https://www.judes.com/assets/images/resize/original/1313.jpg";
 const section4RightImg3 = "https://www.judes.com/assets/images/resize/original/1316.jpg";
