@@ -1,4 +1,4 @@
-const section4 = document.querySelector('.section-4')
+const section4 = document.querySelector('.section-3')
 
 const section4Left1 = document.querySelector('.section-4-left-1')
 const section4Left2 = document.querySelector('.section-4-left-2')
