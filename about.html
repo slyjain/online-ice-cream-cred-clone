@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial scale=1.0 ">
+    <title>University Wesite Design - Easy Tutorials</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Moon+Dance&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<section class="sub-header">
+    <nav>
+        <a href="index.html"><img src="images/logo.jpeg"></a>
+        <div class="nav-links" id="myid">
+            <i class="fa fa-times" oncli+ck="hidemenu()"></i>
+             <ul>
+                 <li><a href="index.html">HOME</a></li>
+                 <li><a href="about.html">ABOUT</a></li>
+                 <li><a href="course.html">COURSE</a></li>
+                 <li><a href="blog.html">BLOG</a></li>
+                 <li><a href="contact.html">CONTACT</a></li>
+              </ul>
+        </div>    
+        <i class="fa fa-bars" onclick="showmenu()"></i>
+    </nav>
+    <h1>About Us</h1>
+
+</section>
+
+<!-------about us-------->
+
+<section class="about-us">
+
+    <div class="row">
+        <div class="about-col">
+            <h1>DEEMED TO BE UNIVERSITY</h1>
+            <P>The Gandhi Institute of Technology and Management, commonly known as GITAM, Visakhapatnam is one of the best private engineering Deemed to be University established in 1980. It was previously known as GITAM College. GITAM has been approved by UGC. It has been granted the status of deemed to be university in 2007. GITAM aims to impart futuristic and comprehensive education of global standards and is responsible for imparting education in the field of Engineering and Technology. </P>
+            <a href="" class="hero-btn red-btn">EXPLORE NOW</a>
+
+        </div>
+        <div class="about-col">
+            <img src="images/central.jpeg">
+        </div>
+
+    </div>
+</section>
+
+    <!-----------footer----------->
+
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>The vision of MAHATMA, the Father of the Nation was to see India as a socially and economically resurgent country and he looked upon education as an important means to achieve this goal. Gandhiji’s view of education was not narrow<br>or sectarian. He envisaged universities as institutions of higher learning that transcend all linguistic, racial and other barriers. GITAM is committed to imbibe his values and abide by his philosophy.</p>
+        <div class="icons">
+            <i class="fa fa-facebook"></i>
+            <i class="fa fa-twitter"></i>
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-linkedin"></i>
+
+
+        </div>
+        
+
+    </section>
+
+
+
+
+<!----------------javascript for toggle menu---------------->
+
+
+<script>
+
+    var myid = document.getElementById("myid");
+    function showmenu(){
+        myid.style.right = "0";
+
+    }
+
+    var myid = document.getElementById("myid");
+    function hidemenu(){
+        myid.style.right = "500px";
+
+    }
+
+
+</script>
+
+</body>
+</html>
