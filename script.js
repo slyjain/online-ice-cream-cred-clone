@@ -42,7 +42,7 @@ window.addEventListener('scroll', () => {
             section4RightImg.src = section4RightImg1
             section4RightImg.style.transition = 'opacity 1s ease-in-out'
         } else if (scrollPosition > section4OffsetTop + innerHeight && scrollPosition < section4OffsetTop + innerHeight * 2) {
-            section4RightImg.src = section4RightImg2
+            section4RightImg.src = section4RightImg5
             section4RightImg.style.transition = 'opacity 1s ease-in-out'
         } else if (scrollPosition > section4OffsetTop + innerHeight * 2 && scrollPosition < section4OffsetTop + innerHeight * 3) {
             section4RightImg.src = section4RightImg3
