@@ -11,7 +11,7 @@
 <body>
 <!--  section 1  -->
   <section class="section1">
-    
+    <div class="section-1-header">
       <div class="section-1-logo">
         <img src="https://img.freepik.com/premium-vector/ice-cream-logo-design-illustration_9845-323.jpg?w=2000" alt="ice-creame-logo" style="border-radius:80px; height:150px">
       </div>
